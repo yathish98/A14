@@ -10,4 +10,5 @@ void main()
 	printf("Enter the number of faculty members in the queue: ");
 	scanf("%d",&m);
 	
+	
 }
